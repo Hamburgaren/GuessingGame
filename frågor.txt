@@ -1,0 +1,17 @@
+Fråga 1: När använder man add respektive commit?
+Svar 1: 'Add' används då man vill indexera/spara en ögonblicksbild av en fil i staging area. Och 'commit' används då man sparar alla filer man indexerat i staging area sedan senaste commit till repositoryt.
+
+---
+
+Fråga 2: Vad är pull repektive push?
+Svar 2:  'Push' är då man överför ändringar/filer från ett fjärr-repository till det lokala repositoryt. Och 'pull' är då man överför ändringar/filer från det lokala repoistoryt till ett fjärr-repository.
+
+---
+
+Fråga 3: När använder man log respektive status?
+Svar 3: Man använder 'log' för att se en lista över alla commits som gjorts till det utvecklingsspår man håller på att arbeta på just nu. 'Status' används för att se av vilka filer man sparat en ögonblicksbild i staging area.
+
+---
+
+Fråga 4: Hur kan man formulera sig i sina commit-meddelanden?
+Svar 4: 
