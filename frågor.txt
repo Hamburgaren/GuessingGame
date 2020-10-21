@@ -14,4 +14,4 @@ Svar 3: Man använder 'log' för att se en lista över alla commits som gjorts t
 ---
 
 Fråga 4: Hur kan man formulera sig i sina commit-meddelanden?
-Svar 4: 
+Svar 4: Man skall gärna uttrycka sig så tydligt som möjligt men trots det hålla meddelandet kort. Skriv i imperativ form: dvs. "fix: connection error" istället för "Fixing connection feature". Stor bokstav i början av alla rader. Avsluta inte första (subject) raden med en punkt. Gör inte antagandet att läsaren förstår problemet som fixats. Meddelandet skall gärna vara mindre än 50 -tecken totalt.
